@@ -1,0 +1,26 @@
+.card .img-wrap {
+    height: 250px;
+    padding: .5rem;
+    display: block;
+    text-align: center;
+}
+.card img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
+.checked {
+    color: orange;
+}
+title {
+    text-decoration: none;
+    color: #212529;
+}
+.price {
+    color: orange;
+    font-size: 22x;
+}
+.rating {
+    font-size: 10px;
+}
